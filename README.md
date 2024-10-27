@@ -21,9 +21,7 @@
 
 👋 **Want to connect? Just run this simple command:**
 
-```bash
-npx mahditalaldev
-```
+<p align="center"> <code>npx mahditalaldev</code> </p>
 
 ⚡ *Instantly get in touch with me through your terminal!*
 
