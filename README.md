@@ -2,8 +2,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mahditalaldev.mahditalaldev" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahdi+Talal!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=In+a+world+full+of+code,;let+your+creativity+be+the+syntax!+💻" />
 </h1>
+
+
 
 <h3 align="center">A passionate Full Stack Developer from Lebanon 🇱🇧</h3>
 
