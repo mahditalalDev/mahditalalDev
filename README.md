@@ -19,8 +19,17 @@
 
 ⚡ Fun fact **I build complex senior projects for university students as a freelancer!**
 
+👋 **Want to connect? Just run this simple command:**
+
+```bash
+npx mahditalaldev
+```
+
+⚡ *Instantly get in touch with me through your terminal!*
+
 </div>
- 
+
+
 <div align="center"> 
   <a href="mailto:mahditalal.789@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
