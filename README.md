@@ -49,15 +49,42 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,prisma,postgresql,mongodb,js,ts,html,css,git,github,figma,vscode" /><br>
-</div>
-<!-- <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mahditalalDev/mahditalalDev/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div> -->
+<p align="center">  
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+  </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=028dd1">
+  </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+  </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&svgfill=61dafb"></a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=white"></a>
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791">
+  </a><a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47A248">
+  </a><a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB">
+  </a><a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=007396">
+  </a><a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=3DDC84">
+  </a><a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=563d7c">
+  </a><a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=material-ui&svgfill=0081CB">
+  </a><a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=06B6D4">
+  </a><a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=8CC84B">
+  </a><a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28">
+  </a></p>
 
 <br/>
 <hr/>
