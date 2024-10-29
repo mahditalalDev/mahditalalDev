@@ -23,7 +23,8 @@
 
 👋 **Want to connect? Just run this simple command:**
 
-<p align="center"> <code>npx mahditalaldev</code> </p>
+<p align="center"> <code>npx npx-mahditalaldev
+</code> </p>
 
 ⚡ *Instantly get in touch with me through your terminal!*
 
