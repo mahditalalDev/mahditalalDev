@@ -47,21 +47,25 @@ A touch of command, and I’m here with a smile!
 <h2 align="center">🚀 My Learning Roadmap</h2>
 > Embarking on an exciting journey to deepen my programming skills and become a full-stack developer!
 
-### 🌐 Step 1: Mastering Python 
-   - **Foundations:** Strengthening my Python skills from the ground up.
-   - **Advanced Topics:** Tackling complex algorithms, sorting techniques, and essential data structures.
+ 🌐 <span style="color: #4CAF50;">Step 1: Mastering Python</span>
+   - Foundations: Strengthening my Python skills from the ground up.
+   - Advanced Topics: Tackling complex algorithms, sorting techniques, and essential data structures.
 
-### 🎨 Step 2: Front-End Magic
-   - **HTML, CSS & JavaScript:** Elevating my front-end expertise for sleek, responsive web designs.
-   - **Dynamic Interfaces:** Learning the ins and outs of creating interactive, user-friendly applications.
+<details>
+<summary style="color: grey;"> 🎨 Step 2: Front-End Magic</summary>
+   - HTML, CSS & JavaScript: Elevating my front-end expertise for sleek, responsive web designs.
+   - Dynamic Interfaces: Learning the ins and outs of creating interactive, user-friendly applications.
+</details>
 
-### 🛠️ Step 3: Laravel & Backend Power-Up
-   - **Laravel Framework:** Building a strong backend foundation, from data handling to API integration.
-   - **Databases & Architecture:** Diving into database management and structuring robust backend systems.
+<details>
+<summary style="color: grey;"> 🛠️ Step 3: Laravel & Backend Power-Up</summary>
+   - Laravel Framework: Building a strong backend foundation, from data handling to API integration.
+   - Databases & Architecture:** Diving into database management and structuring robust backend systems.
+</details>
 
 > Stay tuned as I share projects and updates on my progress!
-
 <hr/>
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
