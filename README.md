@@ -14,7 +14,7 @@
  
  🌱 I’m currently improving my skills in **Node.js, Prisma, and PostgreSQL**
 
-💬 Ask me about **React.js, Next.js, Node.js, or any of my projects [here](https://github.com/mahditalaldev)**
+💬 Lets talk about **React.js, Next.js, Node.js, or any of my projects [here](https://github.com/mahditalaldev)**
 
 ⚡ Fun fact **I build complex senior projects for university students as a freelancer!**
 
@@ -36,9 +36,6 @@ A touch of command, and I’m here with a smile!
   </a>
   <a href="https://react-portfolio-fd769.web.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <a href="https://wa.me/96176134924" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
