@@ -40,30 +40,13 @@ A touch of command, and I’m here with a smile!
 </div>
 
 <hr/>
-
 <h2 align="center">🚀 My Learning Roadmap</h2>
- 🌐 <span style="color: #4CAF50;">Step 1: Mastering Python</span>
- <h4>- Foundations: Strengthening my Python skills from the ground up.</h4>
- <h4>- Advanced Topics: Tackling complex algorithms, sorting techniques, and essential data structures.</h4>
-<details>
-<summary style="color: grey;"> 🎨 Step 2: Front-End Magic</summary>
-    <h4>- HTML, CSS & JavaScript: Elevating my front-end expertise for sleek, responsive web designs.</h4>
-    <h4>- Dynamic Interfaces: Learning the ins and outs of creating interactive, user-friendly applications.
-</h4>
-   
-</details>
+🌐 <span style="color: #4CAF50;">Step 1: Mastering Python</span>
 
-<details>
-<summary style="color: grey;"> 🛠️ Step 3: Laravel & Backend Power-Up</summary>
-    <h4>   - Laravel Framework: Building a strong backend foundation, from data handling to API integration.
-</h4>
-    <h4>   - Databases & Architecture:** Diving into database management and structuring robust backend systems.
-</h4>
-</details>
+<h4>- Foundations: Strengthening my understanding of computer science fundamentals with Python.</h4> <h4>- Advanced Topics: Exploring complex algorithms, sorting techniques, and essential data structures.</h4> <details> <summary style="color: grey;">🎨 Step 2: Front-End Magic</summary> <h4>- Flutter & Dart: Building interactive, cross-platform mobile applications.</h4> <h4>- HTML, CSS & JavaScript: Sharpening my front-end skills to create sleek, responsive web designs.</h4> </details> <details> <summary style="color: grey;">🛠️ Step 3: Backend Power-Up</summary> <h4>- PHP & Laravel Framework: Enhancing backend proficiency, from data handling to API integration.</h4> <h4>- Databases & Architecture: Diving into database management and structuring robust backend systems.</h4> </details> <details> <summary style="color: grey;">🤖 Step 4: Machine Learning</summary> <h4>- Foundations: Learning the basics of machine learning, algorithms, and model training.</h4> </details>
+Stay tuned as I share projects and updates on my progress!
 
-> Stay tuned as I share projects and updates on my progress!
 <hr/>
-
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
