@@ -22,7 +22,7 @@
 
 <p align="center"> <code>npx npx-mahditalaldev</code> </p>
 
-⚡  In seconds, we’ll be connected—terminal-style,
+⚡  In seconds, we’ll be connected terminal-style,
 A touch of command, and I’m here with a smile!
 </div>
 
